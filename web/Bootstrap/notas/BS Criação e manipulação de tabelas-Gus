@@ -1,0 +1,25 @@
+Dentro do Bootstrap possui um codigo completo para o NavBar
+
+header = tag semantica para cabeçalho
+
+classe = "logo-menu" =
+
+aria = atributos de acessibilidade, para deficiente.
+disabled = classe que desativa um botão
+href = sempre utilizado para tornar em um botao
+nav-link = cria o efeito de hover
+
+!important = regra mais importante no css, usado para mostrar a mudança mais importante
+
+tabela:
+
+table > thead(cabeçalho)/tbody(corpo do site)/tfoot(rodapé)
+
+tr(table row) > th(coluna usada pelo thead deixa fonte mais grossa)/td(coluna usada pelo tbody e tfoot)
+
+table = atribui os padroes de tabela do bootstrap
+table-bordered  = adiciona bordas a tabela
+table-striped = deixa a tabela zebrada
+table-hover = adiciona o hover a tabela
+text-center = alinha os textos no meio
+table-danger = adiciona cor a uma parte da tabela
