@@ -1,0 +1,74 @@
+System.in = entrada de informações, geralmente para guardar valores a uma variavel
+System.out = saida de informações, para exibir na tela
+
+print() = exibe o conteudo sem colocar uma nova linha
+printIn() = exibe o conteudo adicionando uma nova linha 
+
+Classe Scanner: classe para tratamento de entrada
+-import java.util.Scanner; (Importar a classe)
+-Scanner entrada = new Scanner(System.in); (criando a variavel utilizada para entrada de dados)
+-double base = entrada.nextDouble(); (Declaração da variavel e atribuição do valor informado pelo usuario via console)
+
+Funções da classe Scanner:
+-next() = formato string com uma palavra
+-nextLine() = formato string com uma ou varias palavras
+-nextInt() = numero Inteiro
+-nextByte() = numero inteiro
+-nextLong() = numero inteiro
+-nextFloat() = numero fracionario
+-nextDouble() = numero fracionario
+
+Operadores e funções Predefinidas
+-"÷" = resto da divisao entre os dois valores
+-"+=" = equivale a X=X+Y
+-"-=" = equivale a X=X-Y
+-"*=" = equivale a X=X*Y
+-"/=" = equivale a X=X/Y
+-"÷=" = equivale a X=X÷Y
+-"++" = X+1=X
+-"--" = X-1=X
+-"==" = X=Y
+-"!=" = X diferente de Y
+-"&&" = X>5 e X<10
+-"||" = X>5 ou X<10
+
+System.out.printIn("texto") = saida de dados via console
+System.out.printIn("texto" + variavel) = saida de dado com texto e o resultado calculado
+
+*
+Character.toUpperCase = converter para letra Maiuscula
+Character.toLowerCase = converter para letra Minuscula
+
+ESTRUTURA DE SELEÇÃO
+-if = simples
+-if e else = composta
+-if e else(if else) = encadeada
+
+Escolha:
+switch (variavel) {
+case 1:
+	cand1++;
+break;
+
+default:
+	system.out.printIn
+	}
+	
+Condição:
+Sempre entre parenteses
+
+ESTRUTURA DE REPETIÇÃO:
+-for = para
+exemplo:
+for(int i-0; i<10;i++)
+
+-While = enquanto
+int i=0
+while(i<10)
+
+-do = Repita
+int i=0;
+do{
+	system.out.printIn("Texto");
+	i++;
+}while(i<10);

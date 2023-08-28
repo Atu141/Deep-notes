@@ -1,0 +1,61 @@
+Sitema de Informações e Resultados Empresariais
+
+Introdução à regressão múltipla
+1 - anexos
+2 - Procedimentos
+3 - Analise
+
+*Y=a+bx1+cx2+dx3...*
+
+Diferença entre a regressão múltipla e a de uma única variável
+*Comparação
+*Possibilidade de análise
+*no exercicio (Custo Indireto de Fabricação = Horas Máquina + lotes)(contábil)
+*Útil em processos e Robótica (Sequência)
+
+Adicionando Data Analysis:
+- File
+- More
+- Options
+- Add-ins
+- "Analysis Toolpack"
+- "GO"
+-Ativar a caixinha
+-"OK"
+
+Dentro do Excel
+- Clicar na aba Data
+- Data Analysis
+- "Regression"
+- Y = Custo
+- X = horas e lotes
+- Output Range 
+- OK
+
+Hipotese 0: organização dos dados é tao especifica, que não é necessario uma regressão
+
+Coeficiente = coeficiente / erro padrão
+Ponto Critico = (coeficiente - 95% menor)/erro padrão
+95% menor = coeficiente-(erro padrão * ponto critico)
+95% maior = coeficiente+(erro padrão * ponto critico)
+
+Trabalhando com residuos:
+- Clicar na aba Data
+- Data Analysis
+- "Regression"
+- Y = Custo
+- X = horas e lotes
+- Output Range
+- Residuals
+- OK
+
+Residuos = Y - Predicted Y
+tendencia da media = "=SUM(Tabela)" e ("=average(Tabela)"(SEMPRE COM OS SINAIS IGUAIS))
+SQ Residuos = Residuos^2
+Erro comum = "=SQRT(SS residual/df residual)
+
+Y previsto - media
+Selecionar a variavel e apertar F4, trava aquele valor para que seja utilizado mais de uma vez
+
+Variança da Amostra = (=SUM(SQ da diferença previsto-media))/n-1
+Aplicação da fórmula acima = (=SQRT(SQ da diferença previsto-media/n-1))

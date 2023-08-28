@@ -1,0 +1,9 @@
+Regressão Multipla:
+
+Y = A +BX1+CX2+DX3+Ex4 + resíduos
+
+Utiliza-se de diversas atividades para transforma-las em dados, assim facilitando a percepção de erros em tempo real e corrigir problemas com mior detalhes, possibilitando a contribuição de cada varivel.
+
+Erro Padrão: O intervalo para ajudar no planejamento, sendo adicionado ou excluido da projeção, alem de ser melhor o quanto menor.
+R-quadrado ajustado: numero do r-quadrado ponderado pelas variaveis sendo menor que o original.
+

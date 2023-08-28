@@ -1,0 +1,71 @@
+AULA 03 de Laboratorio de Programação
+
+Estrutura de Seleção:
+
+-Simples (Se-Então): Verifica se dada condição é atendida, caso seja, o conjunto deverá ser executado, caso contrario, seguira após o fim do bloco de decisão
+no VisualG: Se (condição) então
+				conjunto de instruções
+			Frimse
+*Indentação: espaço no começo das instruções*
+Utilizado no codigo:
+algoritmo "semnome"
+
+var
+n1,n2,r:real
+inicio
+// Seção de Comandos
+escreva("Digite n1:")
+leia(n1)
+escreva("Digite n2:")
+leia(n2)
+
+r<-n1+n2
+
+//seleção simples
+se (r>10) entao
+   escreva("Resultado:",r)
+fimse
+fimalgoritmo
+===================================
+-Composta (Se-Então-Senão): Uma situação com duas possibilidades que dependem da condição, caso cumpra a condição, mostra uma mensagem, e caso não cumpra, mostra outra 
+Utilizando no código:
+
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 3/17/2023
+// Seção de Declarações
+var
+d1,m1,a1:inteiro
+d2,m2,a2:inteiro
+data1:inteiro
+data2:inteiro
+inicio
+// Seção de Comandos
+escreva("Digite o primeiro dia: ")
+leia(d1)
+escreva("Digite o primeiro mês: ")
+leia(m1)
+escreva("Digite o primeiro ano: ")
+leia(a1)
+
+escreva("Digite o segundo dia: ")
+leia(d2)
+escreva("Digite o segundo mes: ")
+leia(m2)
+escreva("Digite o segundo ano: ")
+leia(a2)
+
+data1 <- d1 + (m1 * 30) + (a1 * 365)
+data2 <- d2 + (m2 * 30) + (a2 * 365)
+
+se (data1>data2) entao
+   escreva(d1,"/",m1,"/",a1)
+senao
+   escreva(d2,"/",m2,"/",a2)
+fimse
+fimalgoritmo
+
+-Encadeada
+-Múltipla escolha
+
