@@ -1,0 +1,34 @@
+Storytelling 
+
+Aula sobre User Experience (UX)
+
+Como melhorar o UX do meu site / aplicativo:
+
+-Entenda o usuario
+-Faça testes
+-Utilizar boas praticas de desing
+
+Usabilidade = facilidade e melhor funcionamento de um site, sendo simples para o uso do usuario
+
+*Centrado no humano* = estudo para entender a demanda dos usuarios
+
+Usabilidade necessitam de:
+
+Aprendizagem = o usuario conseguir cumprir tarefas basicas no site
+Eficiencia = Fazer com rapidez logo apos aprender
+Memorabilidade = conseguir fazer se lembrar de como ser usado
+Prevenção de erros = evitar erros ou ajudar a disfarçar facilmente
+Satisfação = Emitir prazer ao usar o produto, possibilitando o uso total do site
+
+2- Heuristicas:
+
+-manter os estatus visiveis (COnfirmação de entrega de pedido e o tempo)
+-Ter proximidade com o mundo real (Menu de boas vindas, ate mesmo quando ja o acessamos outra vez)
+-Exercer controle ssem tirar a liberdade (Criar um post em um site de vendas, e dar a opção de apaga-lo)
+-Manter a consistencia e os padroes (Botoes de interação para diversas funcionalidades)
+-Prevenção de erros
+-Criar o reconhecimento (Mostrar o caminho pelo qual o usuario percorreu)
+-Flexibilidade e eficiencia de uso (uso facilitado para qualquer tipo de pessoa, sendo ela deficiente, idosa, jovem, etc.)
+-Desing minimalista (Facil acesso e dixar as coisas claras)
+- Ajude a reconhecer, diagnosticar e consertar erros (Mensagem que mostra o erro, seguido das possiveis soluções)
+-Documentação e ajuda (botoes que ajudam em determinadas ações)
