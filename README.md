@@ -1,6 +1,8 @@
 # 𝓐𝓷𝓸𝓽𝓪𝓬̧𝓸̃𝓮𝓼 𝓭𝓮 𝓒𝓵𝓪𝓼𝓼𝓮
 
 𝙰𝚗𝚘𝚝𝚊𝚌̧𝚘̃𝚎𝚜 𝚏𝚎𝚒𝚝𝚊𝚜 𝚎𝚖 𝚌𝚕𝚊𝚜𝚜𝚎, 𝚙𝚊𝚛𝚊 𝚞𝚜𝚘 𝚍𝚘𝚜 𝚊𝚕𝚞𝚗𝚘𝚜 𝚎 𝚎𝚜𝚝𝚞𝚍𝚘 𝚙𝚊𝚛𝚊 𝚏𝚞𝚝𝚞𝚛𝚘𝚜 𝚙𝚛𝚘𝚓𝚎𝚝𝚘𝚜
+
+\n
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&logoColor=CDA4DE&labelColor=0D1117)&nbsp;
