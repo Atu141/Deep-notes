@@ -1,0 +1,41 @@
+Formularios:
+
+Conjunto de compontentes prontos para utilizar e permitir o usuario cadastre
+input type = "___"
+
+
+<form action=""></fom> (recebe todos os componentes do formulario)
+
+name="" (utilizar o nome igual ao do id, utilizado para pegar o formulario)
+
+method="get" (metodo de como os dados serão enviados, envia as informações passando pela barra de URL, caso não haja nada no method, aumaticamente ele utiliza o get)
+
+method="post" (Os dados sao encapsulados dentro do form, sem poder vizualizalos)
+
+<label for=""></label> (Identificador do campo)
+
+<input type="text"> (Faz a inserção do dado)
+
+placeholder = indicação de informação
+
+minlength="10" (define a quantidade minima de caracteres)
+
+maxlength="60" (tamanho maximo de caracteres)
+
+required = (necessario ser preenchido para continuar)
+
+<input type="text" id="nome" name="nome" class="form-control" placeholder="Seu nome" minlength="10" maxlength="60" required>
+
+<select name="" id=""></select> (monta uma lista suspensa)
+
+<option value="">Selecione o assunto</option> (opções para o select)
+
+<textarea name="" id="" cols="30" rows="10"></textarea> (Campo de texto, não sendo um input)
+
+NA CSS
+textarea{
+    resize:none;
+    height: 150px;
+}
+
+tira a opção de aumentar a caixa de texto
