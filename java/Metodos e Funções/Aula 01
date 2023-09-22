@@ -1,0 +1,37 @@
+JAVA | Métodos
+
+os metodos seram criados dento da primeira chaves - (public class metodos {})
+ja as chamadas dos metodos serão criados dentro da main - (public static void main(String[] args) {})
+
+Procedimento: 
+
+void = procedimento sem retorno
+
+public static void operacao() {}
+
+o scanner entrada deve ser criado abaixo do class para que ele possa ser utilizado por diversos metodos
+
+static Scanner entrada = new Scanner(System.in); = o static faz com que seja global, ou seja, qualquer metodo podera utiliza-lo
+
+para chamar a operação:
+nome_da_operação();
+
+System.exit(0); = finaliza a repetição
+
+paramentro = metodos conversam entre si
+
+nome_da_operação(variavel); = um parametro real, passa um parametro para o metodo
+
+public static void nome_da_operação(tipo variavel) {} = identificar qual o tipo da variavel
+
+caso queira passar mais de 1 variavel, deve colocar virgula e o parametro deve seguir a mesma sequencia da chamada:
+analise(nomeAluno,media);
+public static void analise(String nomeAluno,double media)
+
+PAra criar uma função, nao se utiliza o void, colocamos o tipo da variavel nele:
+public static double verifica()
+
+return = faz a saida do valor de dentro da função
+
+deve-se criar uma variavel para receber o valor da função
+reajuste=verifica(tempo,salario);
