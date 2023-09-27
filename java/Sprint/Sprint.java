@@ -1,7 +1,7 @@
 package java_sipi;
 import java.util.Scanner;
 
-public class gpt {
+public class Sprint {
 
 	    static Scanner entrada = new Scanner(System.in);
 	    static int numEqui = 0 ,ctl2=0;
