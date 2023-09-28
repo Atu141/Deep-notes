@@ -85,7 +85,7 @@ public class Sprint {
 
         // Ordenar os resultados em ordem decrescente de pontuação e critério de estética
         
-        //quando escrevi isso so eu e deus sabiam como esse treco funcionava agora eu me pergunto se ele sabe pq eu n 
+        //quando escrevi isso so eu e deus sabiam como esse treco funcionava agora eu me pergunto se ele sabe... pq eu n 
         ctl = 0;
         while (ctl < numEqui - 1) {
             int ctl2 = ctl + 1;
