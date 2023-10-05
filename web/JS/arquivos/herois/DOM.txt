@@ -1,0 +1,15 @@
+DOM 
+
+criação de metodos 
+manipulação de HTML/CSS 
+Alterar/Buscar, Inserir/Excluir, Criar 
+
+Arvore Nos 
+
+qualquer id/classe/tag sera aplicada a sim mesma e seus respectivos herdeiros, como por exemplo, pegando a tabela, o arquivo js ira aplicar a tudo dentro dessa tabela
+
+forEache fara o for inteiro dentro dele
+
+variavel.forEach(parametro => função{parametros para o calculo})
+
+para cada indice ele aplica a função
