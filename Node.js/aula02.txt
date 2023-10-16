@@ -1,0 +1,41 @@
+Fundamentos de js
+
+*Dicas:
+-Extensões do VSCode -> funcionalidades extras
+Bracket pair Color DLW = extensão para mudar a cor dos parenteses, colchetes e chaves, facilitando o reconhecimento e identação do codigo
+--------------------------------------------------------------------------------------------------------------------------------------------
+Sintaxe basica de JavaScript (JS)
+
+";" não é obrigatorio no fim. Alem tambem de rodar mesmo dento uma quebra de linhas
+conceito de sentenças (linha de codigo)
+conceito de bloco { }
+--------------------------------------------------------------------------------------------------------------------------------------------
+Variaveis (https://scratch.mit.edu/)
+
+let = cria uma variavel, sendo capaz de altera-la
+
+console.log(typeof(idade)) = mostra o tipo de variavel (Number, String e boolean)
+
+const = variavel constante, na qual seu valor não se altera
+
+console.clear = limpa a tela do console
+
+ao definir nome de constantes para variaveis, não utilizar ESPAÇO, ACENTOS, CARACTERES ESPECIAIS(ç), e sempre começar com letra minuscula, com nomes relacionados ao problema, utilizando alguns tipos de tecnicas:
+-camel case = nomeAluno
+--------------------------------------------------------------------------------------------------------------------------------------------
+OPERADORES ARITMETICOS
+
+Utilizados para realização de contas entre constantes e variaveis
+(+ | - | * | %)
+
+OPERADORES DE ATRIBUIÇÃO
+
+utilizados para atribuir um valor a uma variavel que ja possui um valor determidado, utilizando seu valor atual e o numero que deseja atribuir (+= | -= | *= | /= | ++ | --)
+
+COMPARADORES
+
+Utilizdos para fazer comparação de valores entre variaveis, sendo seu tipo de resposta sempre booleano (> | < | <= | >= | === | !==)
+
+OPERADORES LÓGICOS
+
+Operadores utilizados para verificação, onde uma ação ira ocorrer caso o usuario cumpra todos os requisitos ou algum deles (and / or) (&& | || | !)

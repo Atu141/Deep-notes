@@ -1,0 +1,25 @@
+Algorítmo ("receita de bolo")
+Exemplo: Criação de app para calcular a média de notas
+
+Como calcular a média:
+
+media = (nota1+nota2)/numeroNotas
+
+// Variaveis
+3 -> numéricas
+
+// Entrada
+nota1, nota2
+
+// Processamento 
+media = (nota1 + nota2) / 2
+
+// Saída
+media
+
+----------------------------------------------------------
+Variaveis do mesmo proprosito, podem ser criadas na mesma linha sempre separadas por virgula
+
+Concatenação = juntar um texto com o conteudo da variavel
+console.log(`nome ${variavel}`)
+` = crase

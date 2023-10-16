@@ -1,0 +1,11 @@
+Estrutura de controle condicional
+Encadeamento/aninhamento if - else
+
+if (condição){
+    //condição 1 verdadeira
+}else if(condição){
+    //condição 2 verdadeira
+}else{
+    //nenhuma condição anterior verdadeira
+}
+

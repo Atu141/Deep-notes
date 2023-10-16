@@ -1,0 +1,17 @@
+Laços de repetição
+
+placeBlock("planksBirch");
+//Ira executar o codigo ate que o count seja igual a 3
+for (var count = 0; count < 3; count++) {
+  moveForward();
+  placeBlock("planksBirch");
+}
+//-----------------------------------------------------------------
+for (var count = 0; count < 7; count++) {
+    destroyBlock();
+    //Ira executar essa parte do codigo caso haja um obstaculo afrente, caso o contrario, ignora essa parte
+    ifLavaAhead(function() {
+      placeBlockAhead("cobblestone");
+    });
+    moveForward();
+  }

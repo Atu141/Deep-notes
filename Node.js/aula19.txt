@@ -1,0 +1,20 @@
+Programação orientada de objetos
+
+PILARES:
+
+- Abstração 
+- Herança
+- Polimorfismo
+- Encapsulamento
+_____________________________________________________
+Abstração
+
+Modelo de classe = onde serão modelos predefinidos para melhorar a versatibilidade do codigo(onde se constroi o objeto)
+_____________________________________________________
+Herança
+
+objetos que herdam metodos de outros objetos, porem podem ter metodos unicos
+___________________________________________________________________________________________________________________________
+Polimorfismo
+
+utiliza de um metodo existente e o modifica, possuindo outro comportamento

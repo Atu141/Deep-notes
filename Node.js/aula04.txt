@@ -1,0 +1,37 @@
+
+Leis da Programação:
+
+1)Entender o problema
+2)Pensar no usuário(UX)
+canal: Filipe Deschamps
+3)Codigo Limpo
+------------------------------------------------------------
+npm init = gerenciador de pacotes do node, para inicia-lo
+
+Gera o arquivo package.json
+npm ls = lista os pacotes instalados
+npm i nome_do_pacote = instala o pacote escolhido
+
+repositorio do npm: https://www.npmjs.com/
+
+-----------------------------------------------------------.
+Instalação do pacote readline-sync para input (entrada de dados) via console;
+npm i readline-sync
+
+const read = require('readline-sync') = Da a opção do usuario digitar os valores das variaveis
+
+nome = read.question("Digite seu nome: ") = Atribui o valor digitado a variavel
+
+Ja para numeros, deve-se colocar um Number na frente do read:
+nota2 = Number(read.question("Digite a nota 2: "))
+
+para usar o recurso (pacote readline-sync):
+
+1)Importar no inicio do Codigo:
+const read = require('readline-sync')
+
+2) nome_varivael = read.question("Texto")
+
+3) nome_variavel = Number(read.question("Texto"))
+obs: number converte uma string em número
+

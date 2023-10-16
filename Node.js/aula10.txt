@@ -1,0 +1,26 @@
+pacotes = biblioteca (funcionalidades escritas em JS)
+
+npm (gerenciador de pacotes)
+  |___Package.json (Principal arquivo de configuração)
+
+  npm init (inicia um novo pacote)
+  npm ls (lista os pacotes)
+  npm i (instala um pacote)
+
+________________________________________________________________
+cd pasta [enter] vai para o pasta
+cd .. [enter] volta um nivel
+
+
+________________________________________________________________
+Estruturas de controle
+
+Condicionais
+if(condição){
+    //condição verdadeira
+    //sem o else, ele so ignora
+}else{
+    //condição falsa
+}
+
+Observação: Uma condição nunca pode ser verdadeira e falsa ao mesmo tempo

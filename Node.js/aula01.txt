@@ -1,0 +1,25 @@
+// Desenvolvimento de Sistemas
+
+// - Logica de Programação (31 Aulas)
+
+// JavaScript
+
+// Atividades/desafios/portifólio de projetos
+
+// - Browser (navegador) - front-end
+// - Servidor (banco de dados) - back-end
+// - UX (Experiencia do Usuario) 
+// -UI (Interface do Usuario)
+
+// Começo de JavaScript
+// console.log("") = mostra a mensagem dentro dos parenteses
+// alert("") (no firefox) = faz uma caixa de notificação com a mensagem
+// ------------------------------------------------------------------------------
+// Preparação do ambiente de desenvolvimento
+
+// node.js - executa o JavaScript fora do navegador 
+// visual studio code - editor de codigo
+// https://nodejs.org/en
+// https://code.visualstudio.com/
+
+console.log("hello world")

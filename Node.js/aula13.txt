@@ -1,0 +1,5 @@
+Desenvolver no scratch e no node, uma calculadora determinada pelo professor dentre as 22 possibilidades.
+
+Entrega:
+Scratch -> Github
+Node.JS -> professor corrige na hora

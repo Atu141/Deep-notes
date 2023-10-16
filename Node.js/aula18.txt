@@ -1,0 +1,29 @@
+Funções
+
+Função é um bloco de código reutilizável
+*** Uma função pode ser executada do documento HTML
+
+//execução interna
+html <script></script> 
+
+//link para um documento (recomendado)
+html --------------- JS ("Linkar" um documento JS)
+
+sempre devemos chamar a função pela seguinte linha
+
+function hello(){
+    codigo
+}
+
+e para chamala basta colocar o nome da função
+hello()
+
+
+----------------------------------------------------------------
+DENTRO DO HTML
+ <form>
+        <input type="button" value="Hello" onclick="hello()">
+    </form>
+
+    Cria-se um botão, que ao ser pressionado, executa a função 
+
