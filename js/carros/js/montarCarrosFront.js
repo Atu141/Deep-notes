@@ -18,7 +18,8 @@ carros.forEach(carro => {
         </tr>
 
     `
-
-
-
 });
+
+// exibindo o total do estoque
+
+document.querySelector("#total").textContent = formatarMoeda(somarEstoque(carros))
